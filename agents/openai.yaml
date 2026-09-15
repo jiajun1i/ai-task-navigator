@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 任务导航"
+  short_description: "拆解真实任务，核实当前能力，检索并推荐附来源的 AI 方法与工具"
+  default_prompt: "请用 $ai-task-navigator 分析我的任务，结合当前 Agent 能力检索适合的方法与工具，给出附信息源的使用路径和下一步行动。"
